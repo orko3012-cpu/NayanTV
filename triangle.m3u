@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Stargold
+https://triangle.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1,TLC hd 
+https://triangle.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1,Macau Lotus
+https://triangle.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:-1,fyiHd
+https://triangle.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+#EXTINF:-1,bbc lifestyle
+https://triangle.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
